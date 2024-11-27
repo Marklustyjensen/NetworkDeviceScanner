@@ -1,4 +1,4 @@
-# NetworkDeviceScanner
+# Network Device Scanner
 
 A lightweight and efficient tool for scanning and identifying devices on a network. This project simplifies network monitoring and troubleshooting by providing detailed information about connected devices.
 
